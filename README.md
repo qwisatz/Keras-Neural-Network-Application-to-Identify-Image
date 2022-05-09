@@ -15,8 +15,11 @@ Building Deep Learning Applications with Keras 2.0 by Adam Geitgey and can be fo
 https://www.linkedin.com/learning/building-deep-learning-applications-with-keras-2-0/
 
 
-# B
+# A
 1. Load up the pretrained model, resNet.
 2. Load up an image.
 3. print out prediction.
 
+
+![Screenshot](terminal.png)
+(Fig.1) Expected output of resNet.
